@@ -1,0 +1,12 @@
+
+Vendor=WCH
+MCU=CH32V103R8T6
+Mcu Type=CH32V10x
+Link=WCH-Link
+Address=0x08000000
+Erase All=true
+Program=true
+Verify=true
+Reset=true
+CLKSpeed=1
+Target Path=obj/MPU_CONTROL.hex
